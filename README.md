@@ -15,3 +15,11 @@ The datasets are freely available from UCI repository or else mentioned otherwis
 8) Plotting_interval.py : This code generates the interval estimates plots presented in Figure 4.
 
 In addition to the source code, we also provide the generated 5 and 6 dimensional synthetic data in sdA_Syn_5D_3000_p_0.5.txt and sdB_Syn_6D_9000_p_0.65.txt respectively. We use the ReliefF implementation available at [https://github.com/jundongl/scikit-feature/blob/master/skfeature/function/similarity_based/reliefF.py] by [https://dl.acm.org/doi/abs/10.1145/3136625]. Source code for kernalized SVM or regularized SVM and C4.5 are not provided as they are available as standard modules in Python and R respectively.
+
+
+#### Dependencies
+1) Python version $\geq 3$
+2) Sklearn version $ \geq 0.20.2$
+3) Pandas version $\geq 0.23.4$
+4) Python's amplpy
+5) AMPL software for solving the Linear Programs

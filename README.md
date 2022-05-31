@@ -1,5 +1,5 @@
 # SVEA_FSS
-Repository containing code for interpretable feature subset selection project.
+Repository containing code for interpretable feature subset selection project. The detailed paper is available at https://arxiv.org/pdf/2001.03956.pdf.
 
 The datasets are freely available from UCI repository or else mentioned otherwise. The input and output paths in the code need to be suitably updated according to the user's folder situation.
 

@@ -14,7 +14,7 @@ The datasets are freely available from UCI repository or else mentioned otherwis
 7) Real_SV_interval_estimates.py : It generates the t-distribution based interval estimates for the SVEA values. The intervals generated from this code used to obtain the plots in Figure 4.
 8) Plotting_interval.py : This code generates the interval estimates plots presented in Figure 4.
 
-In addition to the source code, we also provide the generated 5 and 6 dimensional synthetic data in sdA_Syn_5D_3000_p_0.5.txt and sdB_Syn_6D_9000_p_0.65.txt respectively. We use the ReliefF implementation available at [https://github.com/jundongl/scikit-feature/blob/master/skfeature/function/similarity_based/reliefF.py] by [https://dl.acm.org/doi/abs/10.1145/3136625]. Source code for kernalized SVM or regularized SVM and C4.5 are not provided as they are available as standard modules in Python and R respectively.
+In addition to the source code, we also provide the generated 5 and 6 dimensional synthetic data in sdA_Syn_5D_3000_p_0.5.txt and sdB_Syn_6D_9000_p_0.65.txt respectively. We use the ReliefF implementation available at [https://github.com/jundongl/scikit-feature/blob/master/skfeature/function/similarity_based/reliefF.py]. Source code for kernalized SVM or regularized SVM and C4.5 are not provided as they are available as standard modules in Python and R respectively.
 
 
 #### Dependencies

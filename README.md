@@ -19,7 +19,7 @@ In addition to the source code, we also provide the generated 5 and 6 dimensiona
 
 #### Dependencies
 1) Python version $\geq 3$
-2) Sklearn version $ \geq 0.20.2$
+2) Sklearn version $\geq 0.20.2$
 3) Pandas version $\geq 0.23.4$
 4) Python's amplpy
 5) AMPL software for solving the Linear Programs
